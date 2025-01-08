@@ -1,0 +1,200 @@
+	Rouge Score - Lula - Llama 2 - Tópico 11:  dict_items([('rouge1', Score(precision=0.8853868194842407, recall=0.008015980076787383, fmeasure=0.015888114764634805)), ('rougeL', Score(precision=0.673352435530086, recall=0.0060962955276538345, fmeasure=0.01208319407666401))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 2:  dict_items([('rouge1', Score(precision=0.7290969899665551, recall=0.009423766913067911, fmeasure=0.018607033117104814)), ('rougeL', Score(precision=0.5585284280936454, recall=0.007219124194873125, fmeasure=0.014254011608057357))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 9:  dict_items([('rouge1', Score(precision=0.6641221374045801, recall=0.0026422887687541762, fmeasure=0.0052636355386151195)), ('rougeL', Score(precision=0.4351145038167939, recall=0.0017311547105630808, fmeasure=0.00344858880116163))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 0:  dict_items([('rouge1', Score(precision=0.9382470119521913, recall=0.001993692988211391, fmeasure=0.003978931095219792)), ('rougeL', Score(precision=0.7370517928286853, recall=0.0015661707126076742, fmeasure=0.0031256995864783923))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 3:  dict_items([('rouge1', Score(precision=0.6129032258064516, recall=0.01102656693319577, fmeasure=0.021663393931715968)), ('rougeL', Score(precision=0.4659498207885305, recall=0.008382770183131287, fmeasure=0.016469246848672958))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 4:  dict_items([('rouge1', Score(precision=0.8568627450980392, recall=0.008551357063186115, fmeasure=0.016933718249278286)), ('rougeL', Score(precision=0.5901960784313726, recall=0.005890065162514921, fmeasure=0.011663728130509756))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 8:  dict_items([('rouge1', Score(precision=0.8961038961038961, recall=0.00531505160992143, fmeasure=0.01056742476453021)), ('rougeL', Score(precision=0.7064935064935065, recall=0.004190417501155446, fmeasure=0.008331418944789035))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 16:  dict_items([('rouge1', Score(precision=0.8260869565217391, recall=0.025030401297122012, fmeasure=0.04858857086652897)), ('rougeL', Score(precision=0.6120401337792643, recall=0.01854479124442643, fmeasure=0.035998819710829154))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 5:  dict_items([('rouge1', Score(precision=0.7985347985347986, recall=0.008131294293174189, fmeasure=0.016098659675811394)), ('rougeL', Score(precision=0.575091575091575, recall=0.005856023871689668, fmeasure=0.011593988849093526))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 10:  dict_items([('rouge1', Score(precision=0.7729083665338645, recall=0.010212676352916403, fmeasure=0.020158985815971316)), ('rougeL', Score(precision=0.6215139442231076, recall=0.0082122552116235, fmeasure=0.01621031849119343))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 13:  dict_items([('rouge1', Score(precision=0.6775599128540305, recall=0.030655495317890587, fmeasure=0.05865711052433044)), ('rougeL', Score(precision=0.48366013071895425, recall=0.021882700837851158, fmeasure=0.041870992078460956))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 7:  dict_items([('rouge1', Score(precision=0.888235294117647, recall=0.00508811537554335, fmeasure=0.010118269842865278)), ('rougeL', Score(precision=0.6941176470588235, recall=0.003976143141153081, fmeasure=0.007906992327537105))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 6:  dict_items([('rouge1', Score(precision=0.8009950248756219, recall=0.007393800229621125, fmeasure=0.014652348016017475)), ('rougeL', Score(precision=0.6766169154228856, recall=0.0062456946039035595, fmeasure=0.012377138696760104))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 17:  dict_items([('rouge1', Score(precision=0.6625766871165644, recall=0.010131332082551596, fmeasure=0.01995749792109397)), ('rougeL', Score(precision=0.48466257668711654, recall=0.007410881801125703, fmeasure=0.014598540145985401))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 14:  dict_items([('rouge1', Score(precision=0.9349593495934959, recall=0.005135418759908009, fmeasure=0.01021473141918149)), ('rougeL', Score(precision=0.7764227642276422, recall=0.004264630361488825, fmeasure=0.008482668265494195))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 15:  dict_items([('rouge1', Score(precision=0.8505747126436781, recall=0.014429873738604788, fmeasure=0.028378313599539812)), ('rougeL', Score(precision=0.6120689655172413, recall=0.010383659142982499, fmeasure=0.020420881069939122))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 12:  dict_items([('rouge1', Score(precision=0.7904191616766467, recall=0.011890820646788577, fmeasure=0.023429179978700743)), ('rougeL', Score(precision=0.5389221556886228, recall=0.008107377713719485, fmeasure=0.015974440894568693))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 1:  dict_items([('rouge1', Score(precision=0.8934426229508197, recall=0.002160919084484006, fmeasure=0.004311410404738596)), ('rougeL', Score(precision=0.7704918032786885, recall=0.0018635448985458401, fmeasure=0.0037180970462883304))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 18:  dict_items([('rouge1', Score(precision=0.8116883116883117, recall=0.006554454407215143, fmeasure=0.013003901170351106)), ('rougeL', Score(precision=0.6493506493506493, recall=0.005243563525772115, fmeasure=0.010403120936280883))])
+
+	Rouge Score - Lula - Llama 2 - Tópico 19:  dict_items([('rouge1', Score(precision=0.9086859688195991, recall=0.015573707916634857, fmeasure=0.030622584155814914)), ('rougeL', Score(precision=0.6815144766146993, recall=0.011680280937476143, fmeasure=0.022966938116861183))])
+
+	Rouge Score - Lula - Mistral - Tópico 11:  dict_items([('rouge1', Score(precision=0.861271676300578, recall=0.003865310781363495, fmeasure=0.007696082229281268)), ('rougeL', Score(precision=0.6763005780346821, recall=0.0030351769222787175, fmeasure=0.006043232354536298))])
+
+	Rouge Score - Lula - Mistral - Tópico 2:  dict_items([('rouge1', Score(precision=0.6951219512195121, recall=0.004928024899494229, fmeasure=0.009786667811306176)), ('rougeL', Score(precision=0.5792682926829268, recall=0.004106687416245191, fmeasure=0.008155556509421813))])
+
+	Rouge Score - Lula - Mistral - Tópico 9:  dict_items([('rouge1', Score(precision=0.9358108108108109, recall=0.008412804470631112, fmeasure=0.016675696827403528)), ('rougeL', Score(precision=0.6790540540540541, recall=0.006104598189880338, fmeasure=0.012100415387393896))])
+
+	Rouge Score - Lula - Mistral - Tópico 0:  dict_items([('rouge1', Score(precision=0.8888888888888888, recall=0.0002709052043429491, fmeasure=0.0005416453323290327)), ('rougeL', Score(precision=0.8055555555555556, recall=0.00024550784143579756, fmeasure=0.0004908660824231857))])
+
+	Rouge Score - Lula - Mistral - Tópico 3:  dict_items([('rouge1', Score(precision=0.6666666666666666, recall=0.003224142378127418, fmeasure=0.006417249566835654)), ('rougeL', Score(precision=0.5466666666666666, recall=0.0026437967500644827, fmeasure=0.005262144644805237))])
+
+	Rouge Score - Lula - Mistral - Tópico 4:  dict_items([('rouge1', Score(precision=0.8274111675126904, recall=0.0031896366162456214, fmeasure=0.006354775828460038)), ('rougeL', Score(precision=0.6395939086294417, recall=0.0024656086726806644, fmeasure=0.004912280701754386))])
+
+	Rouge Score - Lula - Mistral - Tópico 8:  dict_items([('rouge1', Score(precision=0.8739495798319328, recall=0.001602218456324141, fmeasure=0.0031985729443786614)), ('rougeL', Score(precision=0.7058823529411765, recall=0.0012940995224156523, fmeasure=0.0025834627627673804))])
+
+	Rouge Score - Lula - Mistral - Tópico 16:  dict_items([('rouge1', Score(precision=0.5094339622641509, recall=0.0027361167409809487, fmeasure=0.005442999697611128)), ('rougeL', Score(precision=0.49056603773584906, recall=0.00263477908390758, fmeasure=0.005241407116218124))])
+
+	Rouge Score - Lula - Mistral - Tópico 5:  dict_items([('rouge1', Score(precision=0.8, recall=0.004625139873181649, fmeasure=0.0091971073613944)), ('rougeL', Score(precision=0.632258064516129, recall=0.0036553524804177544, fmeasure=0.007268681624327832))])
+
+	Rouge Score - Lula - Mistral - Tópico 10:  dict_items([('rouge1', Score(precision=0.8571428571428571, recall=0.003790271636133923, fmeasure=0.007547169811320755)), ('rougeL', Score(precision=0.7142857142857143, recall=0.003158559696778269, fmeasure=0.00628930817610063))])
+
+	Rouge Score - Lula - Mistral - Tópico 13:  dict_items([('rouge1', Score(precision=0.6949152542372882, recall=0.008082799408575652, fmeasure=0.015979733021533663)), ('rougeL', Score(precision=0.576271186440678, recall=0.006702809265648102, fmeasure=0.013251485920296208))])
+
+	Rouge Score - Lula - Mistral - Tópico 7:  dict_items([('rouge1', Score(precision=0.7737226277372263, recall=0.003571789601374802, fmeasure=0.007110753337358287)), ('rougeL', Score(precision=0.5547445255474452, recall=0.0025609057519291032, fmeasure=0.005098275977728583))])
+
+	Rouge Score - Lula - Mistral - Tópico 6:  dict_items([('rouge1', Score(precision=0.7347480106100795, recall=0.012721010332950632, fmeasure=0.025009028530155294)), ('rougeL', Score(precision=0.5623342175066313, recall=0.009735935706084959, fmeasure=0.019140483929216322))])
+
+	Rouge Score - Lula - Mistral - Tópico 17:  dict_items([('rouge1', Score(precision=0.6732673267326733, recall=0.01275797373358349, fmeasure=0.02504142883446879)), ('rougeL', Score(precision=0.4603960396039604, recall=0.00872420262664165, fmeasure=0.01712391824709998))])
+
+	Rouge Score - Lula - Mistral - Tópico 14:  dict_items([('rouge1', Score(precision=0.9107142857142857, recall=0.002277446580480943, fmeasure=0.004543531036325976)), ('rougeL', Score(precision=0.7946428571428571, recall=0.0019871837810078816, fmeasure=0.003964453551304037))])
+
+	Rouge Score - Lula - Mistral - Tópico 15:  dict_items([('rouge1', Score(precision=0.17235494880546076, recall=0.004923706917564471, fmeasure=0.00957391345561401)), ('rougeL', Score(precision=0.13822525597269625, recall=0.003948715448739823, fmeasure=0.00767808900895777))])
+
+	Rouge Score - Lula - Mistral - Tópico 12:  dict_items([('rouge1', Score(precision=0.6830601092896175, recall=0.003753415608203465, fmeasure=0.007465806605745685)), ('rougeL', Score(precision=0.5081967213114754, recall=0.002792541212503378, fmeasure=0.00555456011467479))])
+
+	Rouge Score - Lula - Mistral - Tópico 1:  dict_items([('rouge1', Score(precision=0.898876404494382, recall=0.002378993487505328, fmeasure=0.004745427582797825)), ('rougeL', Score(precision=0.7865168539325843, recall=0.002081619301567162, fmeasure=0.004152249134948097))])
+
+	Rouge Score - Lula - Mistral - Tópico 18:  dict_items([('rouge1', Score(precision=0.7593984962406015, recall=0.005295999161029836, fmeasure=0.010518641949593835)), ('rougeL', Score(precision=0.6015037593984962, recall=0.004194850820617692, fmeasure=0.0083315975838367))])
+
+	Rouge Score - Lula - Mistral - Tópico 19:  dict_items([('rouge1', Score(precision=0.900709219858156, recall=0.004847698297579968, fmeasure=0.009643494437905768)), ('rougeL', Score(precision=0.7446808510638298, recall=0.004007939537369265, fmeasure=0.007972967842363036))])
+
+	Rouge Score - Lula - Bode - Tópico 11:  dict_items([('rouge1', Score(precision=0.9830508474576272, recall=0.0030092352391823183, fmeasure=0.006000103450059484)), ('rougeL', Score(precision=0.9745762711864406, recall=0.0029832935560859188, fmeasure=0.005948378420317591))])
+
+	Rouge Score - Lula - Bode - Tópico 2:  dict_items([('rouge1', Score(precision=0.7121212121212122, recall=0.0020317295638265682, fmeasure=0.004051898788740894)), ('rougeL', Score(precision=0.6515151515151515, recall=0.0018588164094583495, fmeasure=0.003707056338635286))])
+
+	Rouge Score - Lula - Bode - Tópico 9:  dict_items([('rouge1', Score(precision=0.7281553398058253, recall=0.002277835145477738, fmeasure=0.004541463562324019)), ('rougeL', Score(precision=0.5533980582524272, recall=0.0017311547105630808, fmeasure=0.003451512307366254))])
+
+	Rouge Score - Lula - Bode - Tópico 0:  dict_items([('rouge1', Score(precision=0.9326923076923077, recall=0.00041059070033228214, fmeasure=0.0008208200584728514)), ('rougeL', Score(precision=0.8942307692307693, recall=0.00039365912506084783, fmeasure=0.0007869718086389195))])
+
+	Rouge Score - Lula - Bode - Tópico 3:  dict_items([('rouge1', Score(precision=0.7582417582417582, recall=0.004449316481815837, fmeasure=0.008846720943650235)), ('rougeL', Score(precision=0.6373626373626373, recall=0.003740005158627805, fmeasure=0.0074363741265465735))])
+
+	Rouge Score - Lula - Bode - Tópico 4:  dict_items([('rouge1', Score(precision=0.9393939393939394, recall=0.0030330900338531985, fmeasure=0.006046656783958804)), ('rougeL', Score(precision=0.7515151515151515, recall=0.0024264720270825587, fmeasure=0.004837325427167044))])
+
+	Rouge Score - Lula - Bode - Tópico 8:  dict_items([('rouge1', Score(precision=0.9365079365079365, recall=0.002726852565090125, fmeasure=0.005437871549486168)), ('rougeL', Score(precision=0.798941798941799, recall=0.0023262979510090894, fmeasure=0.004639088158036222))])
+
+	Rouge Score - Lula - Bode - Tópico 16:  dict_items([('rouge1', Score(precision=0.8918918918918919, recall=0.003344142683421159, fmeasure=0.006663301362948005)), ('rougeL', Score(precision=0.8918918918918919, recall=0.003344142683421159, fmeasure=0.006663301362948005))])
+
+	Rouge Score - Lula - Bode - Tópico 5:  dict_items([('rouge1', Score(precision=0.86, recall=0.003207758299142111, fmeasure=0.006391675956893348)), ('rougeL', Score(precision=0.75, recall=0.0027974636329727715, fmeasure=0.005574136008918618))])
+
+	Rouge Score - Lula - Bode - Tópico 10:  dict_items([('rouge1', Score(precision=0.7065217391304348, recall=0.003421773004843125, fmeasure=0.006810561609388097)), ('rougeL', Score(precision=0.6630434782608695, recall=0.00321120235839124, fmeasure=0.006391450125733444))])
+
+	Rouge Score - Lula - Bode - Tópico 13:  dict_items([('rouge1', Score(precision=0.8181818181818182, recall=0.004435682602267127, fmeasure=0.008823529411764706)), ('rougeL', Score(precision=0.7090909090909091, recall=0.0038442582552981764, fmeasure=0.007647058823529411))])
+
+	Rouge Score - Lula - Bode - Tópico 7:  dict_items([('rouge1', Score(precision=0.8571428571428571, recall=0.0022239444687805372, fmeasure=0.004436378302077032)), ('rougeL', Score(precision=0.7792207792207793, recall=0.0020217676988913973, fmeasure=0.004033071183706392))])
+
+	Rouge Score - Lula - Bode - Tópico 6:  dict_items([('rouge1', Score(precision=0.926829268292683, recall=0.0034902411021814008, fmeasure=0.0069542938189138485)), ('rougeL', Score(precision=0.8292682926829268, recall=0.0031228473019517798, fmeasure=0.006222262890607129))])
+
+	Rouge Score - Lula - Bode - Tópico 17:  dict_items([('rouge1', Score(precision=0.8108108108108109, recall=0.005628517823639775, fmeasure=0.011179429849077696)), ('rougeL', Score(precision=0.6351351351351351, recall=0.004409005628517823, fmeasure=0.008757220048444194))])
+
+	Rouge Score - Lula - Bode - Tópico 14:  dict_items([('rouge1', Score(precision=0.9818181818181818, recall=0.0012057070131957935, fmeasure=0.0024084563578787746)), ('rougeL', Score(precision=0.9636363636363636, recall=0.0011833791055440195, fmeasure=0.0023638553142143527))])
+
+	Rouge Score - Lula - Bode - Tópico 15:  dict_items([('rouge1', Score(precision=0.9347826086956522, recall=0.004192463315945985, fmeasure=0.008347488473671437)), ('rougeL', Score(precision=0.7282608695652174, recall=0.00326622142056257, fmeasure=0.0065032759039068185))])
+
+	Rouge Score - Lula - Bode - Tópico 12:  dict_items([('rouge1', Score(precision=0.8987341772151899, recall=0.002131940065459568, fmeasure=0.004253789467377628)), ('rougeL', Score(precision=0.7088607594936709, recall=0.0016815301924751524, fmeasure=0.0033551015517344672))])
+
+	Rouge Score - Lula - Bode - Tópico 1:  dict_items([('rouge1', Score(precision=0.9448818897637795, recall=0.001189496743752664, fmeasure=0.002376002376002376)), ('rougeL', Score(precision=0.84251968503937, recall=0.001060634596512792, fmeasure=0.0021186021186021184))])
+
+	Rouge Score - Lula - Bode - Tópico 18:  dict_items([('rouge1', Score(precision=0.8607594936708861, recall=0.003565623197525038, fmeasure=0.007101827676240209)), ('rougeL', Score(precision=0.7468354430379747, recall=0.003093702480205548, fmeasure=0.006161879895561357))])
+
+	Rouge Score - Lula - Bode - Tópico 19:  dict_items([('rouge1', Score(precision=0.9315068493150684, recall=0.0025956179861058096, fmeasure=0.005176810932206615)), ('rougeL', Score(precision=0.8767123287671232, recall=0.002442934575158409, fmeasure=0.004872292642076815))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 11:  dict_items([('rouge1', Score(precision=0.9258160237388724, recall=0.00809380512607658, fmeasure=0.01604731901761605)), ('rougeL', Score(precision=0.7685459940652819, recall=0.006718895921967417, fmeasure=0.01332133213321332))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 2:  dict_items([('rouge1', Score(precision=0.7148014440433214, recall=0.008559201141226819, fmeasure=0.0169158479282358)), ('rougeL', Score(precision=0.5090252707581228, recall=0.006095188691479705, fmeasure=0.01204613413071337))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 9:  dict_items([('rouge1', Score(precision=0.7004950495049505, recall=0.00859503128226933, fmeasure=0.01698169816981698)), ('rougeL', Score(precision=0.4306930693069307, recall=0.0052845775375083524, fmeasure=0.010441044104410444))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 0:  dict_items([('rouge1', Score(precision=0.9354066985645934, recall=0.0016550614827827044, fmeasure=0.0033042765451295726)), ('rougeL', Score(precision=0.7870813397129187, recall=0.0013926220660754724, fmeasure=0.0027803247655949596))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 3:  dict_items([('rouge1', Score(precision=0.7164179104477612, recall=0.006190353366004642, fmeasure=0.01227464518603759)), ('rougeL', Score(precision=0.5223880597014925, recall=0.0045137993293783854, fmeasure=0.008950262114819078))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 4:  dict_items([('rouge1', Score(precision=0.8675496688741722, recall=0.005126900573351858, fmeasure=0.010193560937651981)), ('rougeL', Score(precision=0.6622516556291391, recall=0.003913664559810579, fmeasure=0.007781344227215252))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 8:  dict_items([('rouge1', Score(precision=0.9576470588235294, recall=0.006270220305037744, fmeasure=0.012458865845259048)), ('rougeL', Score(precision=0.7505882352941177, recall=0.0049144969958403945, fmeasure=0.00976505701385169))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 16:  dict_items([('rouge1', Score(precision=0.7972972972972973, recall=0.023915687069314958, fmeasure=0.046438410074773714)), ('rougeL', Score(precision=0.6452702702702703, recall=0.019355492501013375, fmeasure=0.037583628492719394))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 5:  dict_items([('rouge1', Score(precision=0.8208955223880597, recall=0.004102946661693398, fmeasure=0.008165083135391923)), ('rougeL', Score(precision=0.7089552238805971, recall=0.0035434539350988436, fmeasure=0.007051662707838481))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 10:  dict_items([('rouge1', Score(precision=0.8947368421052632, recall=0.0008949252474205096, fmeasure=0.0017880620562713647)), ('rougeL', Score(precision=0.8421052631578947, recall=0.0008422825858075384, fmeasure=0.0016828819353142256))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 13:  dict_items([('rouge1', Score(precision=0.791970802919708, recall=0.021389847215377032, fmeasure=0.041654669354064686)), ('rougeL', Score(precision=0.5912408759124088, recall=0.015968457368161656, fmeasure=0.031097034264324794))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 7:  dict_items([('rouge1', Score(precision=0.8521739130434782, recall=0.009906661724567847, fmeasure=0.019585637199387117)), ('rougeL', Score(precision=0.6608695652173913, recall=0.00768271725578731, fmeasure=0.01518886150156552))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 6:  dict_items([('rouge1', Score(precision=0.8198198198198198, recall=0.01253731343283582, fmeasure=0.024696942283336347)), ('rougeL', Score(precision=0.6906906906906907, recall=0.010562571756601608, fmeasure=0.020806947711235754))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 17:  dict_items([('rouge1', Score(precision=0.7827868852459017, recall=0.017917448405253285, fmeasure=0.035033015407190025)), ('rougeL', Score(precision=0.5245901639344263, recall=0.01200750469043152, fmeasure=0.023477622890682316))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 14:  dict_items([('rouge1', Score(precision=0.9393939393939394, recall=0.006921651372049926, fmeasure=0.013742048451803091)), ('rougeL', Score(precision=0.7727272727272727, recall=0.005693616451202358, fmeasure=0.011303943081321896))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 15:  dict_items([('rouge1', Score(precision=0.8639240506329114, recall=0.013308633549456442, fmeasure=0.026213452398098806)), ('rougeL', Score(precision=0.6424050632911392, recall=0.009896163408570175, fmeasure=0.019492054347304243))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 12:  dict_items([('rouge1', Score(precision=0.8114406779661016, recall=0.011500465423535416, fmeasure=0.02267949666913397)), ('rougeL', Score(precision=0.548728813559322, recall=0.0077770771401975795, fmeasure=0.015336787564766838))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 1:  dict_items([('rouge1', Score(precision=0.9575471698113207, recall=0.0020122319915149233, fmeasure=0.004016024531381374)), ('rougeL', Score(precision=0.8773584905660378, recall=0.0018437199528166292, fmeasure=0.0036797072060932787))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 18:  dict_items([('rouge1', Score(precision=0.86, recall=0.018037858528656074, fmeasure=0.03533460017461866)), ('rougeL', Score(precision=0.6675, recall=0.014000314613811547, fmeasure=0.027425401879718557))])
+
+	Rouge Score - Lula - Llama 3 - Tópico 19:  dict_items([('rouge1', Score(precision=0.9428571428571428, recall=0.012596381403160547, fmeasure=0.024860629802621666)), ('rougeL', Score(precision=0.7342857142857143, recall=0.009809909153370487, fmeasure=0.019361157149314454))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 11:  dict_items([('rouge1', Score(precision=0.9288025889967637, recall=0.007445263048666597, fmeasure=0.01477211313276887)), ('rougeL', Score(precision=0.7443365695792881, recall=0.0059665871121718375, fmeasure=0.011838278817201535))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 2:  dict_items([('rouge1', Score(precision=0.7362637362637363, recall=0.008688886007002983, fmeasure=0.01717508331197129)), ('rougeL', Score(precision=0.5201465201465202, recall=0.006138416980071759, fmeasure=0.012133640946765785))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 9:  dict_items([('rouge1', Score(precision=0.7180094786729858, recall=0.009202453987730062, fmeasure=0.018172004318100038)), ('rougeL', Score(precision=0.4004739336492891, recall=0.00513272186114317, fmeasure=0.010135540362240614))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 0:  dict_items([('rouge1', Score(precision=0.9259896729776248, recall=0.0022772968740079154, fmeasure=0.00454342006367544)), ('rougeL', Score(precision=0.7624784853700516, recall=0.0018751719613113505, fmeasure=0.0037411432866323794))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 3:  dict_items([('rouge1', Score(precision=0.5869565217391305, recall=0.0017410368841888058, fmeasure=0.003471775749003472)), ('rougeL', Score(precision=0.5434782608695652, recall=0.001612071189063709, fmeasure=0.0032146071750032146))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 4:  dict_items([('rouge1', Score(precision=0.9058441558441559, recall=0.005459562060935758, fmeasure=0.010853708350353037)), ('rougeL', Score(precision=0.685064935064935, recall=0.004128916110600161, fmeasure=0.008208360078582404))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 8:  dict_items([('rouge1', Score(precision=0.9367088607594937, recall=0.007980280388229857, fmeasure=0.01582573362051846)), ('rougeL', Score(precision=0.7197106690777577, recall=0.006131566784778925, fmeasure=0.01215954050379604))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 16:  dict_items([('rouge1', Score(precision=0.8109243697478992, recall=0.019558167815160114, fmeasure=0.03819513160498714)), ('rougeL', Score(precision=0.6680672268907563, recall=0.016112687474665585, fmeasure=0.03146645557094795))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 5:  dict_items([('rouge1', Score(precision=0.896551724137931, recall=0.0019395747855277881, fmeasure=0.0038707756438886407)), ('rougeL', Score(precision=0.8275862068965517, recall=0.0017903767251025737, fmeasure=0.003573023671281822))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 10:  dict_items([('rouge1', Score(precision=0.8195876288659794, recall=0.008370183196462414, fmeasure=0.016571130797290255)), ('rougeL', Score(precision=0.6701030927835051, recall=0.00684354600968625, fmeasure=0.01354872329338197))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 13:  dict_items([('rouge1', Score(precision=0.7838983050847458, recall=0.018235584031542632, fmeasure=0.03564203833927367)), ('rougeL', Score(precision=0.5932203389830508, recall=0.013799901429275506, fmeasure=0.026972353337828728))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 7:  dict_items([('rouge1', Score(precision=0.8505434782608695, recall=0.010546888162550123, fmeasure=0.02083541354634715)), ('rougeL', Score(precision=0.6331521739130435, recall=0.007851197897361594, fmeasure=0.015510068230986855))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 6:  dict_items([('rouge1', Score(precision=0.852760736196319, recall=0.006383467278989667, fmeasure=0.012672075850123074)), ('rougeL', Score(precision=0.7484662576687117, recall=0.005602755453501722, fmeasure=0.011122253623849028))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 17:  dict_items([('rouge1', Score(precision=0.7764705882352941, recall=0.012382739212007506, fmeasure=0.02437673130193906)), ('rougeL', Score(precision=0.5882352941176471, recall=0.009380863039399626, fmeasure=0.018467220683287166))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 14:  dict_items([('rouge1', Score(precision=0.9441340782122905, recall=0.007546832786299596, fmeasure=0.014973972754457858)), ('rougeL', Score(precision=0.7877094972067039, recall=0.006296469957800255, fmeasure=0.012493077860228156))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 15:  dict_items([('rouge1', Score(precision=0.9035294117647059, recall=0.018719836201433238, fmeasure=0.036679721081287614)), ('rougeL', Score(precision=0.6329411764705882, recall=0.013113635255691513, fmeasure=0.02569490877829783))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 12:  dict_items([('rouge1', Score(precision=0.7708333333333334, recall=0.011110110200282257, fmeasure=0.02190450818458988)), ('rougeL', Score(precision=0.5354166666666667, recall=0.007717022490466324, fmeasure=0.015214752982269186))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 1:  dict_items([('rouge1', Score(precision=0.9210526315789473, recall=0.00034693655026119365, fmeasure=0.0006936118349996532)), ('rougeL', Score(precision=0.7631578947368421, recall=0.00028746171307356046, fmeasure=0.0005747069489997126))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 18:  dict_items([('rouge1', Score(precision=0.8777777777777778, recall=0.00828483037071994, fmeasure=0.016414731702249233)), ('rougeL', Score(precision=0.7166666666666667, recall=0.006764196948246028, fmeasure=0.013401901199937666))])
+
+	Rouge Score - Lula - Llama 3.1 - Tópico 19:  dict_items([('rouge1', Score(precision=0.9032258064516129, recall=0.009619054889686236, fmeasure=0.019035389205725724)), ('rougeL', Score(precision=0.7526881720430108, recall=0.00801587907473853, fmeasure=0.01586282433810477))])
+
