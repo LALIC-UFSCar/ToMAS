@@ -1,0 +1,200 @@
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 2:  dict_items([('rouge1', Score(precision=0.8165137614678899, recall=0.00541560180114397, fmeasure=0.01075983799794475)), ('rougeL', Score(precision=0.6513761467889908, recall=0.004320311549227212, fmeasure=0.008583690987124463))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 9:  dict_items([('rouge1', Score(precision=0.9536231884057971, recall=0.006814698206222296, fmeasure=0.013532690290603213)), ('rougeL', Score(precision=0.7710144927536232, recall=0.0055097559965201545, fmeasure=0.010941324064743024))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 12:  dict_items([('rouge1', Score(precision=0.6321585903083701, recall=0.009629579922158099, fmeasure=0.018970189701897018)), ('rougeL', Score(precision=0.3237885462555066, recall=0.004932223862568782, fmeasure=0.009716438627800911))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 16:  dict_items([('rouge1', Score(precision=0.8862559241706162, recall=0.006840295559294754, fmeasure=0.013575810374242258)), ('rougeL', Score(precision=0.6492890995260664, recall=0.005011339527397761, fmeasure=0.00994591455225235))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 19:  dict_items([('rouge1', Score(precision=0.8382352941176471, recall=0.009831993652326905, fmeasure=0.01943601459406008)), ('rougeL', Score(precision=0.638235294117647, recall=0.007486114465105047, fmeasure=0.014798649708459781))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 11:  dict_items([('rouge1', Score(precision=0.906183368869936, recall=0.006831589268778833, fmeasure=0.013560944479897894)), ('rougeL', Score(precision=0.6588486140724946, recall=0.004966967256594493, fmeasure=0.009859604339502233))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 1:  dict_items([('rouge1', Score(precision=0.9380952380952381, recall=0.0016030466022735595, fmeasure=0.0032006238779538755)), ('rougeL', Score(precision=0.7714285714285715, recall=0.0013182413683670896, fmeasure=0.0026319851179113086))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 0:  dict_items([('rouge1', Score(precision=0.9384164222873901, recall=0.001523889346584821, fmeasure=0.0030428374459183184)), ('rougeL', Score(precision=0.7976539589442815, recall=0.0012953059445970979, fmeasure=0.002586411829030571))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 7:  dict_items([('rouge1', Score(precision=0.7836734693877551, recall=0.009983361064891847, fmeasure=0.01971556194485804)), ('rougeL', Score(precision=0.5959183673469388, recall=0.007591514143094842, fmeasure=0.01499204189556913))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 5:  dict_items([('rouge1', Score(precision=0.6379310344827587, recall=0.003702777082812109, fmeasure=0.007362817770260187)), ('rougeL', Score(precision=0.5689655172413793, recall=0.0033024768576432324, fmeasure=0.0065668374707726))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 18:  dict_items([('rouge1', Score(precision=0.6993865030674846, recall=0.024405908798972382, fmeasure=0.047165908150599914)), ('rougeL', Score(precision=0.5153374233128835, recall=0.01798330122029544, fmeasure=0.03475382705833678))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 4:  dict_items([('rouge1', Score(precision=0.6702586206896551, recall=0.0262957639299907, fmeasure=0.050606134570010584)), ('rougeL', Score(precision=0.4525862068965517, recall=0.017755982074913332, fmeasure=0.034171344886502315))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 10:  dict_items([('rouge1', Score(precision=0.9184952978056427, recall=0.007973006068192331, fmeasure=0.0158087838566958)), ('rougeL', Score(precision=0.7523510971786834, recall=0.006530789953468122, fmeasure=0.012949174490126256))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 13:  dict_items([('rouge1', Score(precision=0.8601190476190477, recall=0.008333813945440914, fmeasure=0.01650768264122922)), ('rougeL', Score(precision=0.6309523809523809, recall=0.0061133860084203245, fmeasure=0.01210944193751071))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 3:  dict_items([('rouge1', Score(precision=0.8727810650887574, recall=0.005647121882118723, fmeasure=0.011221636837400385)), ('rougeL', Score(precision=0.7337278106508875, recall=0.004747410938187944, fmeasure=0.00943378283279761))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 6:  dict_items([('rouge1', Score(precision=0.6121076233183856, recall=0.017235936612159858, fmeasure=0.03352778630641695)), ('rougeL', Score(precision=0.4461883408071749, recall=0.012563924490182461, fmeasure=0.024439668406509057))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 14:  dict_items([('rouge1', Score(precision=0.8067226890756303, recall=0.005098112105360983, fmeasure=0.010132193461568906)), ('rougeL', Score(precision=0.634453781512605, recall=0.00400945274952869, fmeasure=0.00796854798279638))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 8:  dict_items([('rouge1', Score(precision=0.9416058394160584, recall=0.003542107141876493, fmeasure=0.007057664952401794)), ('rougeL', Score(precision=0.8321167883211679, recall=0.0031302342184024823, fmeasure=0.0062370062370062365))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 17:  dict_items([('rouge1', Score(precision=0.5375939849624061, recall=0.016510795520147788, fmeasure=0.03203763862439789)), ('rougeL', Score(precision=0.40225563909774437, recall=0.012354231612977716, fmeasure=0.023972219110563457))])
+
+	Rouge Score - Bolsonaro - Llama 2 - Tópico 15:  dict_items([('rouge1', Score(precision=0.871866295264624, recall=0.015074166827200924, fmeasure=0.029635941864318515)), ('rougeL', Score(precision=0.6740947075208914, recall=0.011654787131573878, fmeasure=0.022913411920655213))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 2:  dict_items([('rouge1', Score(precision=0.7901234567901234, recall=0.0019471826700742363, fmeasure=0.003884791647697957)), ('rougeL', Score(precision=0.6296296296296297, recall=0.001551661190215407, fmeasure=0.0030956933442593095))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 9:  dict_items([('rouge1', Score(precision=0.8594594594594595, recall=0.00329342557686731, fmeasure=0.0065617068691579145)), ('rougeL', Score(precision=0.6756756756756757, recall=0.002589171050996313, fmeasure=0.0051585745826713165))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 12:  dict_items([('rouge1', Score(precision=0.673469387755102, recall=0.0033217017849953025, fmeasure=0.006610797636139027)), ('rougeL', Score(precision=0.43537414965986393, recall=0.0021473627700979736, fmeasure=0.004273646956695937))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 16:  dict_items([('rouge1', Score(precision=0.845679012345679, recall=0.005011339527397761, fmeasure=0.009963636363636362)), ('rougeL', Score(precision=0.6296296296296297, recall=0.003731070305069866, fmeasure=0.007418181818181818))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 19:  dict_items([('rouge1', Score(precision=0.8384279475982532, recall=0.0066236588815675995, fmeasure=0.013143483023001097)), ('rougeL', Score(precision=0.6812227074235808, recall=0.005381722841273674, fmeasure=0.010679079956188388))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 11:  dict_items([('rouge1', Score(precision=0.905982905982906, recall=0.0017038787352718972, fmeasure=0.003401360544217687)), ('rougeL', Score(precision=0.6837606837606838, recall=0.0012859462152995452, fmeasure=0.002567064561673726))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 1:  dict_items([('rouge1', Score(precision=0.9183673469387755, recall=0.0003661781578797471, fmeasure=0.0007320644216691069)), ('rougeL', Score(precision=0.8163265306122449, recall=0.0003254916958931085, fmeasure=0.0006507239303725394))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 0:  dict_items([('rouge1', Score(precision=0.8333333333333334, recall=0.00035716156560581744, fmeasure=0.000714017107849904)), ('rougeL', Score(precision=0.7, recall=0.00030001571510888665, fmeasure=0.0005997743705939195))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 7:  dict_items([('rouge1', Score(precision=0.7378640776699029, recall=0.007903494176372712, fmeasure=0.01563946908118119)), ('rougeL', Score(precision=0.5485436893203883, recall=0.005875623960066556, fmeasure=0.011626710566930754))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 5:  dict_items([('rouge1', Score(precision=0.6328125, recall=0.004053039779834876, fmeasure=0.008054492119524685)), ('rougeL', Score(precision=0.5078125, recall=0.003252439329497123, fmeasure=0.006463481330482772))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 18:  dict_items([('rouge1', Score(precision=0.7607361963190185, recall=0.01327338899593235, fmeasure=0.02609153077327722)), ('rougeL', Score(precision=0.5828220858895705, recall=0.010169128666238493, fmeasure=0.019989479221462388))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 4:  dict_items([('rouge1', Score(precision=0.6910112359550562, recall=0.010399932358163524, fmeasure=0.0204914618908788)), ('rougeL', Score(precision=0.4606741573033708, recall=0.0069332882387756825, fmeasure=0.0136609745939192))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 10:  dict_items([('rouge1', Score(precision=0.8140703517587939, recall=0.004408283218590982, fmeasure=0.008769080870412472)), ('rougeL', Score(precision=0.6884422110552764, recall=0.003727992598438053, fmeasure=0.007415827649669807))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 13:  dict_items([('rouge1', Score(precision=0.930379746835443, recall=0.008477997577714978, fmeasure=0.016802880493798935)), ('rougeL', Score(precision=0.7373417721518988, recall=0.006718957263971394, fmeasure=0.01331656855460936))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 3:  dict_items([('rouge1', Score(precision=0.9438202247191011, recall=0.0016079940274507552, fmeasure=0.0032105182693777713)), ('rougeL', Score(precision=0.8651685393258427, recall=0.0014739945251631922, fmeasure=0.0029429750802629565))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 6:  dict_items([('rouge1', Score(precision=0.6435185185185185, recall=0.00877580655344403, fmeasure=0.017315478044222985)), ('rougeL', Score(precision=0.5, recall=0.006818612286129175, fmeasure=0.013453752725007788))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 14:  dict_items([('rouge1', Score(precision=0.845771144278607, recall=0.009027906853243409, fmeasure=0.017865118356409113)), ('rougeL', Score(precision=0.5447761194029851, recall=0.005815034120177372, fmeasure=0.011507238000157634))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 8:  dict_items([('rouge1', Score(precision=0.8712871287128713, recall=0.0024163211510475303, fmeasure=0.004819277108433736)), ('rougeL', Score(precision=0.7326732673267327, recall=0.0020319064224717867, fmeasure=0.0040525739320920046))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 17:  dict_items([('rouge1', Score(precision=0.5555555555555556, recall=0.0028865027133125505, fmeasure=0.005743165632896852)), ('rougeL', Score(precision=0.4888888888888889, recall=0.0025401223877150447, fmeasure=0.005053985756949231))])
+
+	Rouge Score - Bolsonaro - Mistral - Tópico 15:  dict_items([('rouge1', Score(precision=0.8695652173913043, recall=0.005779233288383741, fmeasure=0.011482154817720792)), ('rougeL', Score(precision=0.7101449275362319, recall=0.004719707185513389, fmeasure=0.009377093101138647))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 2:  dict_items([('rouge1', Score(precision=0.9135802469135802, recall=0.0022514299622733358, fmeasure=0.004491790342650763)), ('rougeL', Score(precision=0.8395061728395061, recall=0.002068881586953876, fmeasure=0.00412759112567908))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 9:  dict_items([('rouge1', Score(precision=0.9594594594594594, recall=0.0014706491569659059, fmeasure=0.0029367968232958306)), ('rougeL', Score(precision=0.8918918918918919, recall=0.0013670823149260533, fmeasure=0.0027299801455989412))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 12:  dict_items([('rouge1', Score(precision=0.6740088105726872, recall=0.005133539122265468, fmeasure=0.010189470880090574)), ('rougeL', Score(precision=0.4008810572687225, recall=0.003053281438733056, fmeasure=0.00606040424894276))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 16:  dict_items([('rouge1', Score(precision=0.8802395209580839, recall=0.00537713073377716, fmeasure=0.010688965642610434)), ('rougeL', Score(precision=0.6646706586826348, recall=0.004060282390811325, fmeasure=0.008071259770950736))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 19:  dict_items([('rouge1', Score(precision=0.9487179487179487, recall=0.003829302790906268, fmeasure=0.0076278174821330395)), ('rougeL', Score(precision=0.7863247863247863, recall=0.003173836547417808, fmeasure=0.0063221550302363936))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 11:  dict_items([('rouge1', Score(precision=0.9557291666666666, recall=0.005899278262686663, fmeasure=0.01172617621215752)), ('rougeL', Score(precision=0.7708333333333334, recall=0.004758000996608317, fmeasure=0.009457624410895439))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 1:  dict_items([('rouge1', Score(precision=0.96875, recall=0.0002522560643171591, fmeasure=0.0005043807912270284)), ('rougeL', Score(precision=0.90625, recall=0.00023598147952250367, fmeasure=0.0004718400950188329))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 0:  dict_items([('rouge1', Score(precision=1.0, recall=0.0003190643319411969, fmeasure=0.0006379251247286437)), ('rougeL', Score(precision=0.9701492537313433, recall=0.0003095400235250418, fmeasure=0.0006188825836919679))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 7:  dict_items([('rouge1', Score(precision=0.8043478260869565, recall=0.0019238768718801997, fmeasure=0.0038385724660234466)), ('rougeL', Score(precision=0.7608695652173914, recall=0.0018198835274542428, fmeasure=0.0036310820624546112))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 5:  dict_items([('rouge1', Score(precision=0.7846153846153846, recall=0.002551913935451589, fmeasure=0.005087281795511222)), ('rougeL', Score(precision=0.6461538461538462, recall=0.0021015761821366026, fmeasure=0.004189526184538653))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 18:  dict_items([('rouge1', Score(precision=0.803921568627451, recall=0.004388781845429244, fmeasure=0.008729905248589374)), ('rougeL', Score(precision=0.7647058823529411, recall=0.004174694926140013, fmeasure=0.008304056212072822))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 4:  dict_items([('rouge1', Score(precision=0.8048780487804879, recall=0.005580451509258477, fmeasure=0.01108405407674868)), ('rougeL', Score(precision=0.6341463414634146, recall=0.004396719370930921, fmeasure=0.008732891090771687))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 10:  dict_items([('rouge1', Score(precision=0.9838709677419355, recall=0.003319818226346295, fmeasure=0.006617308057386162)), ('rougeL', Score(precision=0.9112903225806451, recall=0.0030749136030912404, fmeasure=0.006129145987578988))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 13:  dict_items([('rouge1', Score(precision=0.9580838323353293, recall=0.009227752465540112, fmeasure=0.01827944704672684)), ('rougeL', Score(precision=0.8682634730538922, recall=0.008362650671895726, fmeasure=0.016565748886096195))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 3:  dict_items([('rouge1', Score(precision=0.8888888888888888, recall=0.0016845651716150768, fmeasure=0.003362757461118117)), ('rougeL', Score(precision=0.7777777777777778, recall=0.0014739945251631922, fmeasure=0.0029424127784783522))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 6:  dict_items([('rouge1', Score(precision=0.9166666666666666, recall=0.004861418018814319, fmeasure=0.00967154430697733)), ('rougeL', Score(precision=0.6904761904761905, recall=0.0036618473388471493, fmeasure=0.007285059348112793))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 14:  dict_items([('rouge1', Score(precision=0.9020979020979021, recall=0.003425294070789411, fmeasure=0.006824674637604487)), ('rougeL', Score(precision=0.7622377622377622, recall=0.002894240726480975, fmeasure=0.005766585546503016))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 8:  dict_items([('rouge1', Score(precision=1.0, recall=0.0019220736428787171, fmeasure=0.003836772726027022)), ('rougeL', Score(precision=0.9857142857142858, recall=0.0018946154479804497, fmeasure=0.0037819616870837787))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 17:  dict_items([('rouge1', Score(precision=0.5714285714285714, recall=0.0032328830389100564, fmeasure=0.00642939150401837)), ('rougeL', Score(precision=0.4897959183673469, recall=0.0027710426047800486, fmeasure=0.0055109070034443175))])
+
+	Rouge Score - Bolsonaro - Bode - Tópico 15:  dict_items([('rouge1', Score(precision=0.9814432989690721, recall=0.022924292043922174, fmeasure=0.04480210833450986)), ('rougeL', Score(precision=0.8536082474226804, recall=0.019938354844923907, fmeasure=0.038966539601863616))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 2:  dict_items([('rouge1', Score(precision=0.8715596330275229, recall=0.008671047827674333, fmeasure=0.017171260732037955)), ('rougeL', Score(precision=0.7186544342507645, recall=0.0071498113666788364, fmeasure=0.01415875884922428))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 9:  dict_items([('rouge1', Score(precision=0.9245689655172413, recall=0.008886035047019345, fmeasure=0.017602888679167865)), ('rougeL', Score(precision=0.7349137931034483, recall=0.007063258627117942, fmeasure=0.013992039719338559))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 12:  dict_items([('rouge1', Score(precision=0.6861538461538461, recall=0.007482217152060126, fmeasure=0.014803013707723455)), ('rougeL', Score(precision=0.4, recall=0.004361830626761509, fmeasure=0.008629559560556275))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 16:  dict_items([('rouge1', Score(precision=0.9196891191709845, recall=0.012985587826468652, fmeasure=0.025609580147164912)), ('rougeL', Score(precision=0.6502590673575129, recall=0.009181359280122906, fmeasure=0.01810705525898139))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 19:  dict_items([('rouge1', Score(precision=0.9141914191419142, recall=0.009556007865594922, fmeasure=0.018914305223625808)), ('rougeL', Score(precision=0.7491749174917491, recall=0.007831096698520026, fmeasure=0.015500170706725843))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 11:  dict_items([('rouge1', Score(precision=0.9311377245508982, recall=0.004999115911976982, fmeasure=0.00994483971540491)), ('rougeL', Score(precision=0.7664670658682635, recall=0.004115027888958544, fmeasure=0.008186106003677352))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 1:  dict_items([('rouge1', Score(precision=0.9027027027027027, recall=0.001358927830353728, fmeasure=0.0027137703532776497)), ('rougeL', Score(precision=0.7837837837837838, recall=0.0011799073976125184, fmeasure=0.00235626767200754))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 0:  dict_items([('rouge1', Score(precision=0.9405684754521964, recall=0.001733424131740234, fmeasure=0.0034604707761341598)), ('rougeL', Score(precision=0.8449612403100775, recall=0.0015572244260413641, fmeasure=0.0031087196258128306))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 7:  dict_items([('rouge1', Score(precision=0.8394160583941606, recall=0.005979617304492512, fmeasure=0.011874645051370748)), ('rougeL', Score(precision=0.6715328467153284, recall=0.00478369384359401, fmeasure=0.009499716041096598))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 5:  dict_items([('rouge1', Score(precision=0.8, recall=0.00600450337753315, fmeasure=0.011919543084181776)), ('rougeL', Score(precision=0.7, recall=0.005253940455341506, fmeasure=0.01042960019865905))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 18:  dict_items([('rouge1', Score(precision=0.7365079365079366, recall=0.024834082637550846, fmeasure=0.04804804804804805)), ('rougeL', Score(precision=0.5174603174603175, recall=0.017448083922072363, fmeasure=0.033757895826861346))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 4:  dict_items([('rouge1', Score(precision=0.7530864197530864, recall=0.00515769003128435, fmeasure=0.010245213301981861)), ('rougeL', Score(precision=0.6419753086419753, recall=0.004396719370930921, fmeasure=0.008733624454148471))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 10:  dict_items([('rouge1', Score(precision=0.9020771513353115, recall=0.00827233394105962, fmeasure=0.016394326700102466)), ('rougeL', Score(precision=0.7685459940652819, recall=0.007047810824784348, fmeasure=0.013967534918837298))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 13:  dict_items([('rouge1', Score(precision=0.9832214765100671, recall=0.008449160851260165, fmeasure=0.016754345837145475)), ('rougeL', Score(precision=0.8322147651006712, recall=0.007151508160793587, fmeasure=0.014181152790484906))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 3:  dict_items([('rouge1', Score(precision=0.8368794326241135, recall=0.004517697505694979, fmeasure=0.00898688143790103)), ('rougeL', Score(precision=0.7553191489361702, recall=0.004077413426750129, fmeasure=0.008111041297766608))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 6:  dict_items([('rouge1', Score(precision=0.7392996108949417, recall=0.011995706799671697, fmeasure=0.023608349900596425)), ('rougeL', Score(precision=0.5603112840466926, recall=0.009091483048172233, fmeasure=0.017892644135188866))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 14:  dict_items([('rouge1', Score(precision=0.8787878787878788, recall=0.00847030084171955, fmeasure=0.016778876499053227)), ('rougeL', Score(precision=0.6391184573002755, recall=0.006160218793977855, fmeasure=0.012202819272038711))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 8:  dict_items([('rouge1', Score(precision=0.8715846994535519, recall=0.008759164172547297, fmeasure=0.01734402609759413)), ('rougeL', Score(precision=0.7131147540983607, recall=0.007166588868447788, fmeasure=0.01419056680712247))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 17:  dict_items([('rouge1', Score(precision=0.536697247706422, recall=0.013508832698302737, fmeasure=0.026354319180087852)), ('rougeL', Score(precision=0.44954128440366975, recall=0.011315090636185198, fmeasure=0.02207455794571461))])
+
+	Rouge Score - Bolsonaro - Llama 3 - Tópico 15:  dict_items([('rouge1', Score(precision=0.9323308270676691, recall=0.005971874397996533, fmeasure=0.011867732210365125)), ('rougeL', Score(precision=0.7894736842105263, recall=0.0050568291273357735, fmeasure=0.010049289371680144))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 2:  dict_items([('rouge1', Score(precision=0.8238095238095238, recall=0.00526347815504442, fmeasure=0.010460124554084285)), ('rougeL', Score(precision=0.7238095238095238, recall=0.004624558841426311, fmeasure=0.009190398452143419))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 9:  dict_items([('rouge1', Score(precision=0.9326923076923077, recall=0.004018393471146278, fmeasure=0.008002309945138801)), ('rougeL', Score(precision=0.8028846153846154, recall=0.0034591325241310742, fmeasure=0.006888586396073092))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 12:  dict_items([('rouge1', Score(precision=0.726984126984127, recall=0.007683532411756811, fmeasure=0.015206348152329094)), ('rougeL', Score(precision=0.4222222222222222, recall=0.004462488256609851, fmeasure=0.008831634516418208))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 16:  dict_items([('rouge1', Score(precision=0.8849840255591054, recall=0.010132416416709342, fmeasure=0.020035441756175183)), ('rougeL', Score(precision=0.6932907348242812, recall=0.00793766917843295, fmeasure=0.015695634877581282))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 19:  dict_items([('rouge1', Score(precision=0.9181818181818182, recall=0.017421602787456445, fmeasure=0.03419440024376206)), ('rougeL', Score(precision=0.7072727272727273, recall=0.013419808879842688, fmeasure=0.026339844940244436))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 11:  dict_items([('rouge1', Score(precision=0.9367088607594937, recall=0.008326501744064555, fmeasure=0.016506277483907972)), ('rougeL', Score(precision=0.7160940325497287, recall=0.006365433765732748, fmeasure=0.012618698617041615))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 1:  dict_items([('rouge1', Score(precision=0.9288537549407114, recall=0.0019122637133720127, fmeasure=0.0038166699148963813)), ('rougeL', Score(precision=0.7984189723320159, recall=0.0016437330642601982, fmeasure=0.0032807120119534854))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 0:  dict_items([('rouge1', Score(precision=0.9516728624535316, recall=0.001219111477267857, fmeasure=0.002435103539461043)), ('rougeL', Score(precision=0.8736059479553904, recall=0.001119106238898228, fmeasure=0.0022353489522396294))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 7:  dict_items([('rouge1', Score(precision=0.8518518518518519, recall=0.0011959234608985025, fmeasure=0.0023884936912612286)), ('rougeL', Score(precision=0.6296296296296297, recall=0.0008839434276206323, fmeasure=0.0017654083804974296))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 5:  dict_items([('rouge1', Score(precision=0.8, recall=0.0004003002251688767, fmeasure=0.0008002000500125031)), ('rougeL', Score(precision=0.8, recall=0.0004003002251688767, fmeasure=0.0008002000500125031))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 18:  dict_items([('rouge1', Score(precision=0.7672131147540984, recall=0.025048169556840076, fmeasure=0.04851249092982274)), ('rougeL', Score(precision=0.5737704918032787, recall=0.01873260543780775, fmeasure=0.03628070902871359))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 4:  dict_items([('rouge1', Score(precision=0.7062146892655368, recall=0.010569036949353175, fmeasure=0.020826391202932355)), ('rougeL', Score(precision=0.5649717514124294, recall=0.00845522955948254, fmeasure=0.016661112962345886))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 10:  dict_items([('rouge1', Score(precision=0.9069767441860465, recall=0.004245013469754279, fmeasure=0.008450475339237831)), ('rougeL', Score(precision=0.7558139534883721, recall=0.0035375112247952325, fmeasure=0.0070420627826981936))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 13:  dict_items([('rouge1', Score(precision=0.9673076923076923, recall=0.014504873406770863, fmeasure=0.028581169384624128)), ('rougeL', Score(precision=0.7480769230769231, recall=0.011217486590922199, fmeasure=0.02210352860958009))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 3:  dict_items([('rouge1', Score(precision=0.8674033149171271, recall=0.003005417408449626, fmeasure=0.005990080122090805)), ('rougeL', Score(precision=0.7624309392265194, recall=0.002641704473669098, fmeasure=0.005265165967188096))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 6:  dict_items([('rouge1', Score(precision=0.782608695652174, recall=0.007955047667150704, fmeasure=0.01575)), ('rougeL', Score(precision=0.6521739130434783, recall=0.006629206389292253, fmeasure=0.013125000000000001))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 14:  dict_items([('rouge1', Score(precision=0.8909774436090225, recall=0.006292982130054964, fmeasure=0.01249769293643051)), ('rougeL', Score(precision=0.6917293233082706, recall=0.0048856907676376096, fmeasure=0.009702850212249849))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 8:  dict_items([('rouge1', Score(precision=0.9337748344370861, recall=0.0038716054806557016, fmeasure=0.007711238720262511)), ('rougeL', Score(precision=0.7880794701986755, recall=0.0032675251928938193, fmeasure=0.006508066721356303))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 17:  dict_items([('rouge1', Score(precision=0.5454545454545454, recall=0.0006927606511950121, fmeasure=0.0013837638376383763)), ('rougeL', Score(precision=0.45454545454545453, recall=0.0005773005426625101, fmeasure=0.0011531365313653136))])
+
+	Rouge Score - Bolsonaro - Llama 3.1 - Tópico 15:  dict_items([('rouge1', Score(precision=0.9333333333333333, recall=0.008765170487382007, fmeasure=0.017367240803473447)), ('rougeL', Score(precision=0.7846153846153846, recall=0.0073685224426892695, fmeasure=0.014599933202919985))])
+
